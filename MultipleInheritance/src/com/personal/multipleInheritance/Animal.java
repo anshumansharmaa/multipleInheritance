@@ -1,6 +1,6 @@
 package com.personal.multipleInheritance;
 
-public interface Human {
+public interface Animal {
 
-	void speak();
+	void makeSound();
 }
