@@ -1,5 +1,8 @@
 package com.personal.multipleInheritance;
 
+/**
+ * Demonstrates multiple inheritance using interfaces.
+ */
 
 public class LivingBeing implements Human, Animal {
 
